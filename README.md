@@ -1,5 +1,5 @@
 # german_used_cars
-German Used Cars - Data Cleaning &amp; E.D.A.
+Germany's Used Car Market - Data Cleaning & E.D.A.
 
 In this project we will be taking a closer look at the state of Germany's used car market. My motivation for this project came not long
 after I bought my own first used car and became curious about why people choose to buy new cars instead of used old ones. After a bit of searching
